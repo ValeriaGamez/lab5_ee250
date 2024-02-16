@@ -2,16 +2,16 @@
 
 ## Team Members
 - Valeria Gamez
-- Sapriya 
+- Supriya subramanian 
 
 ## Lab Question Answers
 
 Answer for Question 1: 
-dBm is a unit of power
+dBm is a unit of power. It is used to qutnitfy the power level of an electrical signal. A good wifi signal is -50 to -60 dBm and poor is below -70
 
 
 Answer for Question 2:
-We need to check the OS because, the commands are different for each operating system. The difference between the commands for each OS is ...
+We need to check the OS because, the commands are different for each operating system. Different OSs have didfferent file systems strucures, and behaviors. 
 
 Answer for Question 3:
 A subprocess.check_output is running a command in a command line and then captures the output. It returns a string of bytes with the output of the run command. 
@@ -32,3 +32,7 @@ Answer 8:
 It is important to plot the error bars because they tell an estimated error to give a sense of how accurate the data is. 
 
 Answer 9:
+There were a lot of fluctuationts in signal strenght as I moved through the different location. It varied from how far off I was off the wifi, walls, furniture between the device. 
+
+Answer 10:
+I notice that as the message size increases, the delay also increases. Unlike part 1, this part focuses on delay measuremetns, how much time it takes for the server to respond to a message. It is another way of measuring network performance. The differences may be caused becaues of the wifi signal strength, interference, etc. 
